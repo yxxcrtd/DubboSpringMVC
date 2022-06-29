@@ -23,7 +23,7 @@
         <servlet-api.version>2.5</servlet-api.version>
         <spring.version>4.3.3.RELEASE</spring.version>
         <dubbo.version>2.5.3</dubbo.version>
-        <zookeeper.version>3.4.8</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
     </properties>
 
     <dependencies>
